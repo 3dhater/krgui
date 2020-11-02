@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+demo/krgui_demo/.vs
+*.db
+*.db-shm
+demo/krgui_demo/Debug
+*.pdb
